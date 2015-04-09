@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'coffee-script-source','1.8.0'
+
 ruby '2.1.5'
 #ruby-gemset=railstutorial_rails_4_0
 
